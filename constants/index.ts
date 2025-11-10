@@ -113,7 +113,7 @@ export const PROJECTS = [
     title: "Agafay Adventure",
     description:
       "Built a fast, SEO-optimized site for Agafay Adventure showcasing desert activities and tours, with a polished visual design, clear itineraries, and a streamlined booking flow",
-    image: "/projects/agafayadventure.png",
+    image: "/projects/agafayadventure.png", 
     link: "https://agafayadventure.com",
   },
   {
@@ -127,6 +127,7 @@ export const PROJECTS = [
     title: "KASBAH SAHARA SERVICES ",
     description:
        "Created a clean, mobile-first site for Kasbah Sahara Services highlighting stays and desert excursions, with intuitive navigation, contact/booking forms, and SEO foundations.",
+    image: "/projects/kasbahsaharaservices.png",
     link: "https://kasbahsaharaservices.com/",
   },
    {
@@ -155,12 +156,14 @@ export const PROJECTS = [
     title: "SAHARA EXPERIENCE  ",
     description:
        "Created a conversion-focused site for Sahara Experience that showcases curated Sahara tours, integrating quick enquiry options and performance optimizations throughout.",
+       image: "/projects/sahara-experience.png",
     link: "https://sahara-experience.com/",
   },
   {
     title: "Benvip Services  ",
     description:
       "Launched a sleek corporate site for Benvip Services, emphasizing services overview, trust signals, and clear contact funnels backed by on-page SEO best practices.",
+      image: "/projects/benvipservices.png",
     link: "https://benvipservices.com/",
   },
    {
